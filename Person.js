@@ -1,8 +1,8 @@
 class person {
     constructor(firstname, lastname, age){
-    this.firstname = firstname
-    this.lastname = lastname
-    this.age = age
+    this.firstname = ""
+    this.lastname = ""
+    this.age = 0
     } 
 
 }
